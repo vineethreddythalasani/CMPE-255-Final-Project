@@ -19,4 +19,7 @@ The given dataset consists of 20,632 Kickstarter campaigns that were analyzed to
 
 After the data cleaning and preprocessing steps, various models were selected and evaluated for predicting the project state. Logistic Regression, Decision Trees, Random Forest, and SVM were trained and tested on the dataset. Among these models, Decision Trees performed the best with an accuracy of 0.9923. Logistic Regression achieved an accuracy of 0.8913, Random Forest achieved an accuracy of 0.9829, and SVM achieved an accuracy of 0.8927.
 
+Flowchart of Methodologies
+![image](https://github.com/vineethreddythalasani/CMPE-257-Final-Project/assets/70748428/2893ed86-8783-4667-8041-793ce15c9cb9)
+
 
