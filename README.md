@@ -1,4 +1,4 @@
-# CMPE-257-Final-Project
+# Kick starter Campaign
 The project involves analyzing Kickstarter campaign data to predict the success of future campaigns. Techniques such as data cleaning, exploratory data analysis, feature engineering, and machine learning models are utilized to create a predictive model.
 
 The given dataset consists of 20,632 Kickstarter campaigns that were analyzed to identify factors contributing to a campaign's success. Here is a summary of the data cleaning and preprocessing steps applied to the dataset:
